@@ -1,4 +1,4 @@
-#**This is a school project that I really liked, so I am posting it here**
+**This is a school project that I really liked, so I am posting it here**
 
 This was pulled from a private archive on UTA Servers and developed on my school Github account (ctb9024), so unfortunately the commit history was not preserved
 

@@ -4,8 +4,10 @@ This was pulled from a private archive on UTA Servers and developed on my school
 
 
 This was the semester project for my Fundamentals of Software Engineering class, and it taught me a lot about working in teams (and exFat file systems, but I don't think that was the point of the project)
-    The project was developed with an Agile approach over 3 sprints, with requirements constantly changing
-    A lot of the code here was included in a template, but everything in "src" and "tests" was written by the 4 members of the project (to my knowledge)
+
+The project was developed with an Agile approach over 3 sprints, with requirements constantly changing
+
+A lot of the code here was included in a template, but everything in "src" and "tests" was written by the 4 members of the project (to my knowledge)
 
 
     
